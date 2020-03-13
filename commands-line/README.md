@@ -1,15 +1,14 @@
-
-###basics  linux commands
+### Basics linux commands
 
 ```
-cd ~
-pwd
-ls
-ls -a
-cd
-cp 
-cat 
-echo
-top
+cd ~    racine
+pwd     where
+ls      list
+ls -a   hiden list(all)
+cd      change D
+cp      copy
+cat     see 
+echo    print 
+top     services 
 
 ```
