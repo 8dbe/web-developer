@@ -14,7 +14,8 @@ top     services
 ```
 ### docker on ubuntu 
 uninstall any old Docker software
-```sudo apt-get remove docker docker-engine docker.io
+```
+sudo apt-get remove docker docker-engine docker.io
 ```
 To install Docker:
 ```
